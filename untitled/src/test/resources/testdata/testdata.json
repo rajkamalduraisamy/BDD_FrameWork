@@ -1,0 +1,18 @@
+[
+  {
+    "employeeNumber": "EMP001",
+    "adjustmentType": "Raise Adjustment",
+    "mainBenefit": "5000",
+    "childBenefit": "1500",
+    "reportName": "Monthly Payroll Report",
+    "reportMonth": "January 2024"
+  },
+  {
+    "employeeNumber": "EMP002",
+    "adjustmentType": "Raise Adjustment",
+    "mainBenefit": "6000",
+    "childBenefit": "2000",
+    "reportName": "Monthly Payroll Report",
+    "reportMonth": "January 2024"
+  }
+]
